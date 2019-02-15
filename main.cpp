@@ -4,6 +4,7 @@
 #include "database.hxx" // create_database
 
 #include "myodb.hxx"
+#include "myodb-odb.hxx"
 
 using namespace std;
 using namespace odb;
