@@ -28,6 +28,9 @@ public:
     const unsigned short get_age(){
         return age_;
     }
+    void age(unsigned short age){
+        age_ = age;
+    }
 private:
     friend class odb::access;
 
