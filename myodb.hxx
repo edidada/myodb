@@ -1,10 +1,9 @@
 //
-// Created by root on 19-2-14.
+// Created by edidada on 19-2-14.
 //
 
 #ifndef MYODB_MYODB_H
 #define MYODB_MYODB_H
-
 
 #include <string>
 
